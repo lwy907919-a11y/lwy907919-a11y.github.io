@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /ai-money-kit-cn/wizard.html
+Disallow: /aimk-medium-import/
+
+Sitemap: https://lwy907919-a11y.github.io/sitemap.xml
